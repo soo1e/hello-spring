@@ -34,6 +34,7 @@ public class HelloController {
         hello.setName(name);
         return hello;
     }
+
     static class Hello {
         private String name;
 
